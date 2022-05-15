@@ -7,3 +7,5 @@
 # RUN SCRIPT 
 ## cd Santet0nline
 ## sh Santet.sh
+
+### Note: jika install github nya error/fatal Usaha kan di ketik bukan di salin
